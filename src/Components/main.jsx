@@ -3,7 +3,7 @@ import Footer from "./Footer"
 import Hero from "./Hero"
 import Nav from "./Nav"
 import Testimonial from "./Testimonial"
-import Project from "./project"
+import Project from "./Project"
 
 
 const main = () => {
