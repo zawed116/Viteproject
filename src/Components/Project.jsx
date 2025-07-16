@@ -3,7 +3,7 @@ import project2Img from '../assets/project2.jpeg'
 import project4Img from '../assets/project4.jpeg'
 
 
-function project() {
+function Project() {
   return (
    <> 
    <div className='bg-indigo-800 m-20 max-w-full'>
@@ -121,4 +121,4 @@ function project() {
   )
 }
 
-export default project
+export default Project
